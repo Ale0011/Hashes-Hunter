@@ -25,7 +25,7 @@
 
     ```git clone <repository-url>```
    
-2. **Prepare your hash list** by placing it in a text file named `Hashes-Lockbit.txt` in the same directory as the scripts.
+2. **Prepare your hash list** by placing it in a text file named `Hashes.txt` in the same directory as the scripts.
    
 ## Usage
 
@@ -41,7 +41,7 @@
 
 ### Linux/Unix
 
-1. **Navigate** to the directory containing `Hashes_Hunting_RHEL_V2.sh` using a terminal.
+1. **Navigate** to the directory containing `Hashes_Hunting_Linux.sh` using a terminal.
 2. **Make the script executable**:
    ```chmod +x Hashes_Hunting_Linux.sh```
 3. **Run the script**:
